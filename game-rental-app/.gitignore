@@ -1,0 +1,17 @@
+# Dependency directories
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# dotenv environment variables file
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Dependency directory
+package-lock.json
